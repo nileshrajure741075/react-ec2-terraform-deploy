@@ -2,7 +2,7 @@
 
 # ![aws](https://github.com/julien-muke/Search-Engine-Website-using-AWS/assets/110755734/01cd6124-8014-4baa-a5fe-bd227844d263) Deploying a React.js App on AWS EC2 Using Terraform 
 
-<div align="center">
+
 
   <br />
       <img src="https://github.com/user-attachments/assets/e8f01153-2ea4-4c89-853f-1b604b6effad" alt="Project Banner">
