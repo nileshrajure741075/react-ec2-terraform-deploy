@@ -10,26 +10,11 @@
 
 <h3 align="center">Deploying a React app using EC2 and Terraform</h3>
 
-   <div align="center">
-     Build this hands-on demo step by step with my detailed tutorial on <a href="http://www.youtube.com/@julienmuke/videos" target="_blank"><b>Julien Muke</b></a> YouTube. Feel free to subscribe 🔔!
-    </div>
-</div>
-
-## 🚨 Tutorial
-
-This repository contains the steps corresponding to an in-depth tutorial available on my YouTube
-channel, <a href="http://www.youtube.com/@julienmuke/videos" target="_blank"><b>Julien Muke</b></a>.
-
-If you prefer visual learning, this is the perfect resource for you. Follow my tutorial to learn how to build projects
-like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/Tbp6VJrq2ho?si=htW_VrEVu3E4XiEn" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
-
 ## <a name="introduction">🤖 Introduction</a>
 
-We’re going to walk through how to deploy a React.js application on AWS using an EC2 instance with Terraform. If you want to automate your infrastructure and host your React app on the cloud, this is the tutorial for you.
+We’re going to walk through how to deploy a React.js application on AWS using an EC2 instance with Terraform. If you want to automate your infrastructure and host your React app on the cloud.
 
-We’ll cover everything from setting up Terraform, launching an EC2 instance, and deploying your React app step-by-step. By the end of this tutorial, you’ll have your React.js app live on AWS!
+We’ll cover everything from setting up Terraform, launching an EC2 instance, and deploying your React app step-by-step. 
 
 
 ## 📐 Architecture Diagram
