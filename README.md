@@ -5,9 +5,7 @@
 <div align="center">
 
   <br />
-    <a href="https://youtu.be/Tbp6VJrq2ho?si=htW_VrEVu3E4XiEn" target="_blank">
       <img src="https://github.com/user-attachments/assets/e8f01153-2ea4-4c89-853f-1b604b6effad" alt="Project Banner">
-    </a>
   <br />
 
 <h3 align="center">Deploying a React app using EC2 and Terraform</h3>
